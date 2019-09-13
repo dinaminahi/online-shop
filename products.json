@@ -54,5 +54,12 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "Silver fork",
+        "image": "fork.jpg",
+        "description": "Best fork you have ever eat with!",
+        "price": 1000.00
     }
 ]
